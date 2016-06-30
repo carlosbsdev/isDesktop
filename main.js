@@ -5,9 +5,3 @@ function esDispositivoMovil() {
         return false;
     }
 }
-
-if(esDispositivoMovil()){
-    //Móvil
-}else{
-    //Desktop
-}

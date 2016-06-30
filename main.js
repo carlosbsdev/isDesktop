@@ -7,7 +7,7 @@ function esDispositivoMovil() {
 }
 
 if(esDispositivoMovil()){
-    alert('Móvil');
+    //Móvil
 }else{
-    alert('Desktop')
+    //Desktop
 }

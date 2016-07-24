@@ -6,7 +6,7 @@ Añadir en el head: `<script src="main.js"></script>`
 
 Y con el siguiente código determinamos:
 ```
-if(esDispositivoMovil()){
+if(isDesktop()){
     //Smartphones (Android, Iphone, BlackBerry) and Tablets
 }else{
     //Desktop and others
